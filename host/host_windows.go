@@ -8,8 +8,8 @@ import (
 
 	"github.com/StackExchange/wmi"
 
-	common "github.com/shirou/gopsutil/common"
-	process "github.com/shirou/gopsutil/process"
+	common "github.com/immerselearning/gopsutil/common"
+	process "github.com/immerselearning/gopsutil/process"
 )
 
 var (

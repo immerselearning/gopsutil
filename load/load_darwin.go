@@ -5,7 +5,7 @@ package load
 import (
 	"strconv"
 
-	common "github.com/shirou/gopsutil/common"
+	common "github.com/immerselearning/gopsutil/common"
 )
 
 func LoadAvg() (*LoadAvgStat, error) {

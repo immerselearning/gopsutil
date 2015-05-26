@@ -7,9 +7,9 @@ import (
 	"encoding/binary"
 	"unsafe"
 
-	common "github.com/shirou/gopsutil/common"
-	cpu "github.com/shirou/gopsutil/cpu"
-	net "github.com/shirou/gopsutil/net"
+	common "github.com/immerselearning/gopsutil/common"
+	cpu "github.com/immerselearning/gopsutil/cpu"
+	net "github.com/immerselearning/gopsutil/net"
 )
 
 // MemoryInfoExStat is different between OSes

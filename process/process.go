@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	cpu "github.com/shirou/gopsutil/cpu"
+	cpu "github.com/immerselearning/gopsutil/cpu"
 )
 
 type Process struct {

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	common "github.com/shirou/gopsutil/common"
+	common "github.com/immerselearning/gopsutil/common"
 )
 
 func CPUTimes(percpu bool) ([]CPUTimesStat, error) {

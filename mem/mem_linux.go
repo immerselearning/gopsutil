@@ -7,7 +7,7 @@ import (
 	"strings"
 	"syscall"
 
-	common "github.com/shirou/gopsutil/common"
+	common "github.com/immerselearning/gopsutil/common"
 )
 
 func VirtualMemory() (*VirtualMemoryStat, error) {
